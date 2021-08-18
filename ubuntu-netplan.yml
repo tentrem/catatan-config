@@ -1,5 +1,4 @@
-#ubuntu .yml config
-
+#ubuntu netplan config
 network:
   version: 2
   ethernets:

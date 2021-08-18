@@ -1,0 +1,4 @@
+GRUB_CMDLINE_LINUX_DEFAULT="maybe-ubiquity"
+# disable grub os prober that might find other OS installs.
+GRUB_DISABLE_OS_PROBER=true
+GRUB_TERMINAL=console
