@@ -1,2 +1,2 @@
 # catatan-config
-koleksi config untuk mempermudah kegiatan konfigurasi
+configuration collection for make easy yout work
